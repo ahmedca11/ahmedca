@@ -1,0 +1,116 @@
+body {
+    background-color: #8BA1BB;
+    font-family: Arial;
+}
+p#categorie1 {
+    background-color: black;
+    color: #ffffff;
+    display: inline-block;
+    align-items: center;
+    padding: 8px 18px;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 16px;
+
+
+}
+div.css{
+    background-color: white;
+    margin: 0px 10% 80px 10%;
+    padding: 30px;
+    min-width: 350px;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+p.ca{
+    text-align: center;
+    max-width: 400px;
+    display: inline-block;
+    font-size: 14px;
+}
+.ca{
+    text-align: center;
+    width: 100%;
+}
+div.categorie1{
+    margin-bottom: -20px;
+    margin-top: 60px;
+}
+div.separateur{
+    width: 100px;
+    height: 1px;
+    background-color: rgb(214, 52, 52);
+    margin-left: auto;
+    margin-right: auto;
+}
+div.info{
+    position: relative;
+}
+table.info{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c829dc8;
+    height: 80px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+table.info td{
+    vertical-align: top;
+}
+table.info th{
+    vertical-align: bottom;
+    padding-bottom: 6px;
+
+}
+img.info{
+    display: block;
+    max-height: 400px;
+    object-fit: cover;
+    min-height: 200px;
+    background-color: lightgray;
+}
+div.colonne1{
+    display: inline-block;
+    margin-right: 10%;
+}
+div.colonne{
+    margin-top: 20px;
+    width: 45%;
+
+}
+div.colonne2{
+    float: right;
+}
+div.colonne h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    border-bottom: 5px solid #6c829d;
+    padding: 5px;
+}
+div.ingredients p{
+    border: 1px lightgrey solid;
+    padding: 8px 4px;
+    margin-top: 4px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+p.numero{
+    background-color:#6c829d;
+    color: white;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 50%;
+    padding-top: 5px;
+    box-sizing: border-box;
+    margin: 0;
+
+
+}
